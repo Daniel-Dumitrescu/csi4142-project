@@ -1,0 +1,21 @@
+Region_ID,Name_EN,Name_FR,Abbrev_EN,Abbrev_FR,AlphaCode,NumericCode,GeographicRegion,Area_Percentage,Area,Land,Freshwater,EffectiveDate,Population_Lower,Population_Upper
+0,Newfoundland and Labrador,Terre-Neuve-et-Labrador,N.L.,T.-N.-L.,NL,10,Atlantic,4.1,405212.0,373872.0,31340.0,2001-01-01,0,1000000
+1,Prince Edward Island,Île-du-Prince-Édouard,P.E.I.,Î.-P.-É.,PE,11,Atlantic,0.1,5660.0,5660.0,,2001-01-01,0,1000000
+2,Nova Scotia,Nouvelle-Écosse,N.S.,N.-É.,NS,12,Atlantic,0.6,55284.0,53338.0,1946.0,2001-01-01,0,1000000
+3,Nova Scotia,Nouvelle-Écosse,N.S.,N.-É.,NS,12,Atlantic,0.6,55284.0,53338.0,1946.0,2021-10-01,1000000,5000000
+4,New Brunswick,Nouveau-Brunswick,N.B.,N.-B.,NB,13,Atlantic,0.7,72908.0,71450.0,1458.0,2001-01-01,0,1000000
+5,Quebec,Québec,Que.,Qc,QC,24,Quebec,15.4,1542056.0,1365128.0,176928.0,2001-01-01,5000000,10000000
+6,Ontario,Ontario,Ont.,Ont.,ON,35,Ontario,10.8,1076395.0,917741.0,158654.0,2001-01-01,10000000,15000000
+7,Ontario,Ontario,Ont.,Ont.,ON,35,Ontario,10.8,1076395.0,917741.0,158654.0,2022-04-01,15000000,50000000
+8,Manitoba,Manitoba,Man.,Man.,MB,46,Prairies,6.5,647797.0,553556.0,94241.0,2001-01-01,1000000,5000000
+9,Saskatchewan,Saskatchewan,Sask.,Sask.,SK,47,Prairies,6.5,651036.0,591670.0,59366.0,2001-01-01,1000000,5000000
+10,Saskatchewan,Saskatchewan,Sask.,Sask.,SK,47,Prairies,6.5,651036.0,591670.0,59366.0,2001-01-01,0,1000000
+11,Alberta,Alberta,Alta.,Alb.,AB,48,Prairies,6.6,661848.0,642317.0,19531.0,2001-01-01,1000000,5000000
+12,British Columbia,Colombie-Britannique,B.C.,C.-B.,BC,59,British Columbia,9.5,944735.0,925186.0,19549.0,2001-01-01,1000000,5000000
+13,British Columbia,Colombie-Britannique,B.C.,C.-B.,BC,59,British Columbia,9.5,944735.0,925186.0,19549.0,2018-07-01,5000000,10000000
+14,Yukon,Yukon,Y.T.,Yn,YT,60,Territories,4.8,482443.0,474391.0,8052.0,2001-01-01,0,1000000
+15,Northwest Territories,Territoires du Nord-Ouest,N.W.T.,T.N.-O.,NT,61,Territories,13.5,1346106.0,1183085.0,163021.0,2001-01-01,0,1000000
+16,Nunavut,Nunavut,Nvt.,Nt,NU,62,Territories,21.0,2093190.0,1936113.0,157077.0,2001-01-01,0,1000000
+17,Atlantic,,,,,1,Canada,5.5,539064.0,504320.0,34744.0,2001-01-01,1000000,5000000
+18,Prairies,,,,,4,Canada,19.6,1960681.0,1787543.0,173138.0,2001-01-01,5000000,10000000
+19,Territories,,,,,6,Canada,39.3,3921739.0,3593589.0,328150.0,2001-01-01,0,1000000
