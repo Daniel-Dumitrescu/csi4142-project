@@ -1,10 +1,8 @@
 Crop_ID,Common Name,Species,Family,Minimum Temperature,Maximum Temperature
-1,Wheat,Triticum,Grass,5,29
-2,Durum,Triticum,Grass,5,29
-3,Oats,Avena sativa,Grass,5,28
-4,Barley,Hordeum,Grass,5,28
-5,Rye,Secale,Grass,5,34
-6,Flaxseed,Linum usitatissimum,Linaceae,5,30
-7,Canola,Brassica napus,Brassicaceae,3,29
-8,Pea,Pisum sativum,Fabaceae,2,34
-9,Lentil,Lens culinaris,Fabaceae,4,27
+0,Wheat,Triticum,Grass,5,29
+1,Durum,Triticum,Grass,5,29
+2,Oats,Avena sativa,Grass,5,28
+3,Barley,Hordeum,Grass,5,28
+4,Rye,Secale,Grass,5,34
+5,Flaxseed,Linum usitatissimum,Linaceae,5,30
+6,Canola,Brassica napus,Brassicaceae,3,29
