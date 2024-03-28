@@ -1,0 +1,8 @@
+Crop_ID,Common Name,Species,Family,Minimum Temperature,Maximum Temperature
+0,Wheat,Triticum,Grass,5,29
+1,Durum,Triticum,Grass,5,29
+2,Oats,Avena sativa,Grass,5,28
+3,Barley,Hordeum,Grass,5,28
+4,Rye,Secale,Grass,5,34
+5,Flaxseed,Linum usitatissimum,Linaceae,5,30
+6,Canola,Brassica napus,Brassicaceae,3,29
