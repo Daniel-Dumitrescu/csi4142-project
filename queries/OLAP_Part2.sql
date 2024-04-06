@@ -8,7 +8,7 @@ from
   "FactTable" as F,
   "Crop" as C,
   "Region" as R,
-  "Date" as D,
+  "Date" as D
 where
   F."Crop_ID" = C."Crop_ID"
   and F."Region_ID" = R."Region_ID"
